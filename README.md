@@ -21,7 +21,7 @@ PROXY_TIMEOUT = 5           # Timeout in seconds for each proxy request
 OUTPUT_FILE = "proxies.txt" # Output file name
 CHECK_PROXIES = False       # Toggle proxy validation (True/False)
 
-git clone https://github.com/yourusername/proxyscraper-v2.git
+git clone https://github.com/Railgun1337/proxyscraperV2.git
 cd proxyscraper-v2
 
-python proxyscraperV2.py
+python proxyscraperV3.py
